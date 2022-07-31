@@ -1,0 +1,15 @@
+table{
+    width:100%;
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+table tbody,thead tr,td,th{
+    border: 1px solid white;
+}
+table tbody{
+    background-color: rgb(216, 216, 6);
+}
